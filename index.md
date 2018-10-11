@@ -14,7 +14,8 @@ Analista de Sistemas, Programador, Desarrollador web.
 
 ### Intereses
 
-Desarrollo web, tecnologías open source.
+* Desarrollo web.
+* Tecnologías open source.
 
 ## Educacion
 
